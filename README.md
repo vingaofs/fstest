@@ -8,4 +8,5 @@ multiple commits
 2
 feature/1.8
 alpha branch created off of featucre/1.8
+master
 ## end
